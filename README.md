@@ -6,9 +6,9 @@
 1° 
 ```bash
 sudo apt install -y git && \
-git clone https://(TOKEN)@github.com/(NOME)/INSTALADOR.git && \
-sudo chmod -R 777 INSTALADOR && \
-cd INSTALADOR && \
+git clone https://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@github.com/medeiros-web/linkoo_Install.git && \
+sudo chmod -R 777 linkoo_Install && \
+cd linkoo_Install && \
 sudo chmod -R 775 atualizador_remoto.sh && \
 sudo chmod -R 775 instalador_apioficial.sh && \
 sudo ./instalador_single.sh
